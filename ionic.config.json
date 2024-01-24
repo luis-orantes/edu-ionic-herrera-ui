@@ -1,0 +1,7 @@
+{
+  "name": "ionicHerrarUi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
